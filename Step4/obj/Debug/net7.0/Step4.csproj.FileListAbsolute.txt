@@ -1,0 +1,15 @@
+D:\VisualStudio\FinalControlWork\Step4\bin\Debug\net7.0\Step4.exe
+D:\VisualStudio\FinalControlWork\Step4\bin\Debug\net7.0\Step4.deps.json
+D:\VisualStudio\FinalControlWork\Step4\bin\Debug\net7.0\Step4.runtimeconfig.json
+D:\VisualStudio\FinalControlWork\Step4\bin\Debug\net7.0\Step4.dll
+D:\VisualStudio\FinalControlWork\Step4\bin\Debug\net7.0\Step4.pdb
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.csproj.AssemblyReference.cache
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.AssemblyInfoInputs.cache
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.AssemblyInfo.cs
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.dll
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\refint\Step4.dll
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.pdb
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\Step4.genruntimeconfig.cache
+D:\VisualStudio\FinalControlWork\Step4\obj\Debug\net7.0\ref\Step4.dll
